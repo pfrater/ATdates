@@ -1,0 +1,12 @@
+place	date
+amicalola falls state park	3/17/09
+neels gap	3/22/09
+helen, ga	3/28/09
+franklin, nc	4/3/09
+wesser, nc	4/5/09
+fontana dam	4/9/09
+gatlinburg, nc	4/14/09
+hot springs, nc	4/20/09
+erwin, nc	4/27/09
+wautagua lake	5/3/09
+damascus, va	5/7/09
